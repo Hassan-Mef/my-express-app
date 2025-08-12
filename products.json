@@ -1,0 +1,32 @@
+[
+    {
+        "Id" : 1 ,
+        "name": "Cards",
+        "category" : "games"
+    },
+    {
+        "Id" : 2 ,
+        "name": "Ludo",
+        "category" : "games"
+    },
+    {
+        "Id" : 3 ,
+        "name": "Ludo",
+        "category" : "games"
+    },
+    {
+        "Id" : 4 ,
+        "name": "BMW",
+        "category" : "Cars"
+    },
+    {
+        "Id" : 5 ,
+        "name": "Ford",
+        "category" : "Cars"
+    },
+    {
+        "Id" : 5 ,
+        "name": "pen",
+        "category" : "study"
+    }
+]
